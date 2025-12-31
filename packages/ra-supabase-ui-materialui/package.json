@@ -15,7 +15,7 @@
     "types": "esm/index.d.ts",
     "sideEffects": false,
     "dependencies": {
-        "ra-supabase-core": "^3.4.0"
+        "ra-supabase-core": "^1.1.0"
     },
     "devDependencies": {
         "@mui/icons-material": "^5.16.12",
