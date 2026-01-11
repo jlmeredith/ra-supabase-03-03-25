@@ -15,9 +15,9 @@
     "types": "esm/index.d.ts",
     "sideEffects": false,
     "dependencies": {
-        "ra-supabase-core": "^3.4.0",
+        "ra-supabase-core": "^1.1.0",
         "ra-supabase-language-english": "^3.4.0",
-        "ra-supabase-ui-materialui": "^3.4.0"
+        "ra-supabase-ui-materialui": "^1.1.0"
     },
     "devDependencies": {
         "rimraf": "^6.0.1",
